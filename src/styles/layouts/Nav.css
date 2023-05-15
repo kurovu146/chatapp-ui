@@ -1,0 +1,18 @@
+.nav {
+  width: 30%;
+  height: calc(100vh - 52px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around ;
+  color: #fff;
+  border-right: 1px solid #333;
+}
+
+.list {
+  height: 50%;
+  border-bottom: 1px solid #333;
+}
+
+.history {
+  height: 50%;
+}
